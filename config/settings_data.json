@@ -86,7 +86,7 @@
       },
       "7548217388672093610": {
         "type": "shopify://apps/real-cloud-tracking/blocks/add-tracking-code/019c8a30-2273-74c7-a0b4-bf2baa65480f",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       }
     },
