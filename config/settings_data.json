@@ -79,18 +79,13 @@
     "button_font_weight_secondary": "default",
     "content_for_index": [],
     "blocks": {
-      "7548217388672093610": {
-        "type": "shopify://apps/real-cloud-tracking/blocks/add-tracking-code/019c8a30-2273-74c7-a0b4-bf2baa65480f",
-        "disabled": false,
-        "settings": {}
-      },
       "855628211100114053": {
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       },
-      "1838928796318109098": {
-        "type": "shopify://apps/real-cloud-tracking-testing/blocks/add-tracking-code/019cfc7c-d105-7b3f-aa4f-bc1c561cba30",
+      "7548217388672093610": {
+        "type": "shopify://apps/real-cloud-tracking/blocks/add-tracking-code/019c8a30-2273-74c7-a0b4-bf2baa65480f",
         "disabled": true,
         "settings": {}
       }
