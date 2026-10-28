@@ -86,7 +86,7 @@
       },
       "3689878185639872894": {
         "type": "shopify://apps/rct-staging/blocks/add-tracking-code/01a18433-2b60-7858-8299-77ae1c9a7357",
-        "disabled": true,
+        "disabled": false,
         "settings": {}
       }
     },
