@@ -79,14 +79,14 @@
     "button_font_weight_secondary": "default",
     "content_for_index": [],
     "blocks": {
-      "7548217388672093610": {
-        "type": "shopify://apps/real-cloud-tracking/blocks/add-tracking-code/019c8a30-2273-74c7-a0b4-bf2baa65480f",
-        "disabled": false,
-        "settings": {}
-      },
       "855628211100114053": {
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
+        "settings": {}
+      },
+      "3689878185639872894": {
+        "type": "shopify://apps/rct-staging/blocks/add-tracking-code/01a18433-2b60-7858-8299-77ae1c9a7357",
+        "disabled": true,
         "settings": {}
       }
     },
